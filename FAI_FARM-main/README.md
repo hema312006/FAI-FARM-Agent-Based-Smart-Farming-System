@@ -183,7 +183,7 @@ streamlit run dashboard/streamlit_app.py --server.port 8502
 
 ## Repository
 
-https://github.com/paramesh502/FAI_FARM
+https://github.com/hema312006/FAI-FARM-Agent-Based-Smart-Farming-System
 
 ## License
 
